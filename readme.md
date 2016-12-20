@@ -12,15 +12,16 @@ This project has proporse to training Laravel.
 
 ## Versões
 
-1 - Versão do laravel: 5.3
-2 - Versão do PHP 7.0
-3 - Versão do Mysql - 5.0
+1 - Utiliza Homestead
+2 - Versão do laravel: 5.3
+3 - Versão do PHP 7.0
+4 - Versão do Mysql - 5.0
 
 ## Explicação do sistema
 
 1 - cadastro simples de produto com seus preços.
 2 - É necessário cadastrar usuário antes de utilizar o sistema.
-3 - Não há implementação de perfil de usuario e edição de usuário.
+3 - Não há implementação de perfil de usuário e edição de usuário.
 4 - É necessário cadastrar categoria antes de produtos.
-5 - Usuários não são "donos" do produtos cadastrados, portanto todos os usuários conseguem vizualizar produtos cadastrados.
-6 - Não gera relatorio se não houver produtos cadastrados.
+5 - Usuários não são "donos" do produtos cadastrados, portanto todos os usuários conseguem visualizar produtos cadastrados.
+6 - Não gera relatório se não houver produtos cadastrados.
